@@ -1,2 +1,1 @@
-# jarvis-mobile-edition
-MY JARVIS AI ASSISTANT 
+# bujji ai mobail edition 
